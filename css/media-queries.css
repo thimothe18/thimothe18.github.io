@@ -272,7 +272,9 @@
    #testimonials blockquote { padding-bottom: 24px; }
    #testimonials blockquote p {
       font-size: 20px;
-      line-height: 42px;      
+      line-height: 42px; 
+	  color: #000000 !important
+	  ;
    }
 
    /* Control Nav */
